@@ -72,5 +72,3 @@ This is a  hands-on practice with real attack and defense scenarios.
 Once everything is installed and configured, you’ll have a safe, isolated, and powerful lab for hands-on cybersecurity training.</b> 
 
 
-<img src="(https://imgur.com/a/nZPIZl5)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
